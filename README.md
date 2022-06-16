@@ -3,7 +3,10 @@
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
-
+~~~
+Developed by: Koduru Sanath Kumar Reddy
+Registered number: 212221240024
+~~~
 ### Procedure 
 Start the Quartus II Programmer.
 Click Add File and select the path to the desired .sof.
