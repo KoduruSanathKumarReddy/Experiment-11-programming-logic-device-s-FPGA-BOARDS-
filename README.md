@@ -21,8 +21,10 @@ Click Start to download the selected file to the FPGA. Configuration is complete
 
 
 
-
-
-### RESULTS 
-
+### Output:
 ![](image.png)
+
+### RESULTS: 
+Therefore the standard procedure to interface an FPGA board and flashing method using usb blaster are understood. 
+
+
