@@ -7,19 +7,19 @@
 ### Procedure 
 Start the Quartus II Programmer.
 Click Add File and select the path to the desired .sof.
+![](1.png)
 Turn on the Program/Configure option for the added file.
+![](4.png)
+![](2.png)  
+![](3.png)
 Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
- 
-
+![](5.png)
+![](6.png)
 
 
 
 
 
 ### RESULTS 
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
+
+![](image.png)
